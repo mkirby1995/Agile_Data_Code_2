@@ -2,7 +2,7 @@
 #
 # Script to download data for book
 #
-mkdir data
+mkdir $PROJECT_HOME/data
 
 #
 # Get airplane data
